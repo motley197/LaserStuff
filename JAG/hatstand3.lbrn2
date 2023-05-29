@@ -55,12 +55,12 @@
     <Shape Type="Path" CutIndex="0" VertID="1" PrimID="2">
         <XForm>1 0 0 1 0 55</XForm>
     </Shape>
-    <Shape Type="Path" CutIndex="0" PrimID="3">
+    <Shape Type="Path" CutIndex="0" VertID="8" PrimID="3">
         <XForm>1 0 0 1 0 0</XForm>
         <VertList>V703 400c0x1c1x1V718 400c0x1c1x1V718 410c0x1c1x1V719.79999 410c0x1c1x1V719.79999 400c0x1c1x1V736.20001 400c0x1c1x1V736.20001 410c0x1c1x1V738 410c0x1c1x1V738 400c0x1c1x1V753 400c0x1c1x1V753 545c0x1c1x1V743 545c0x1c1x1V743 554.50403c0x1c1x1V713 554.50403c0x1c1x1V713 545c0x1c1x1V703 545c0x1c1x1</VertList>
         <PrimList>LineClosed</PrimList>
     </Shape>
-    <Shape Type="Path" CutIndex="0" PrimID="3">
+    <Shape Type="Path" CutIndex="0" VertID="3" PrimID="3">
         <XForm>1 0 0 1 0 0</XForm>
         <VertList>V763 400c0x1c1x1V778 400c0x1c1x1V778 410c0x1c1x1V779.79999 410c0x1c1x1V779.79999 400c0x1c1x1V796.20001 400c0x1c1x1V796.20001 410c0x1c1x1V798 410c0x1c1x1V798 400c0x1c1x1V813 400c0x1c1x1V813 545c0x1c1x1V803 545c0x1c1x1V803 554.50403c0x1c1x1V773 554.50403c0x1c1x1V773 545c0x1c1x1V763 545c0x1c1x1</VertList>
     </Shape>
