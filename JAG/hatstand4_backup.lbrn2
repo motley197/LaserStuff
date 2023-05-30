@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="1.4.00" FormatVersion="1" MaterialHeight="10" MirrorX="False" MirrorY="True">
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+        <Optimize_OverlapDist Value="0.025"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="0"/>
+        <name Value="Outer Cut"/>
+        <minPower Value="70"/>
+        <maxPower Value="80"/>
+        <maxPower2 Value="20"/>
+        <speed Value="6"/>
+        <numPasses Value="4"/>
+        <dotSpacing Value="0"/>
+        <overscan Value="0"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="1"/>
+        <name Value="100"/>
+        <minPower Value="15"/>
+        <maxPower Value="15"/>
+        <minPower2 Value="10"/>
+        <maxPower2 Value="20"/>
+        <speed Value="100"/>
+        <PPI Value="0"/>
+        <runBlower Value="0"/>
+        <perfLen Value="0"/>
+        <perfSkip Value="0"/>
+        <dotSpacing Value="0"/>
+        <scanOpt Value="individual"/>
+        <priority Value="1"/>
+        <doOutput Value="0"/>
+        <tabSize Value="0.1"/>
+        <tabSpacing Value="0.1"/>
+    </CutSetting>
+    <Shape Type="Path" CutIndex="1" VertID="0" PrimID="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V766.98401 282c0x1c1x1V772.98401 282c0x1c1x1V772.98401 280.048c0x783.89001c0y280.31735c1x1V804.784 286.60001c0x810.06622c0y288.7775c1x794.65979c1y282.53644V819.75201 294.84c0x823.54169c0y297.58499c1x815.08691c1y291.54144V830.04797 304.31201c0x832.75439c0y307.5444c1x826.99713c1y300.76389V836.75201 314.96799c0x837.75208c0y317.26218c1x835.00964c1y311.12906V839.08002 322.08801c0x1c1x838.53162c1y319.64618V837.224 322.34399c0x1c1x1V838.05603 328.28799c0x1c1x1V839.90399 328.02399c0x839.9389c0y328.6821c1x1V839.96002 330c0x1c1x839.95758c1y329.34097V805 330c0x1c1x1V805 320c0x1c1x1V803.20001 320c0x1c1x1V803.20001 330c0x1c1x1V736.79999 330c0x1c1x1V736.79999 320c0x1c1x1V735 320c0x1c1x1V735 330c0x1c1x1V700 330c0x700.00519c0y329.44781c1x1V700.04797 328.34399c0x1c1x700.02124c1y328.89554V701.90399 328.56799c0x1c1x1V702.63202 322.616c0x1c1x1V700.81598 322.392c0x701.80139c0y317.81396c1x1V706.13599 309.51199c0x708.71002c0y305.44458c1x703.60358c1y313.45105V715.50403 298.62399c0x718.75671c0y295.75238c1x711.86633c1y301.77621V726.06403 291.07199c0x730.92096c0y288.28433c1x722.29517c1y293.22186V741.40802 284.35199c0x748.17957c0y282.17603c1x736.06561c1y286.03119V762.28003 280.29599c0x763.84619c0y280.17737c1x755.1864c1y280.81436V766.98401 280.04001c0x1c1x765.41431c1y280.09204</VertList>
+        <PrimList>L0 1L1 2B2 3B3 4B4 5B5 6B6 7L7 8L8 9L9 10B10 11L11 12L12 13L13 14L14 15L15 16L16 17L17 18L18 19L19 20B20 21L21 22L22 23L23 24B24 25B25 26B26 27B27 28B28 29B29 30L30 0</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="1" VertID="0" PrimID="0">
+        <XForm>1 0 0 1 0 55</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="1" VertID="2" PrimID="1">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V703 400c0x1c1x1V718 400c0x1c1x1V718 410c0x1c1x1V719.79999 410c0x1c1x1V719.79999 400c0x1c1x1V736.20001 400c0x1c1x1V736.20001 410c0x1c1x1V738 410c0x1c1x1V738 400c0x1c1x1V753 400c0x1c1x1V753 545c0x1c1x1V743 545c0x1c1x1V743 554.50403c0x1c1x1V713 554.50403c0x1c1x1V713 545c0x1c1x1V703 545c0x1c1x1</VertList>
+        <PrimList>LineClosed</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="1" VertID="1" PrimID="1">
+        <XForm>1 0 0 1 0 0</XForm>
+        <VertList>V763 400c0x1c1x1V778 400c0x1c1x1V778 410c0x1c1x1V779.79999 410c0x1c1x1V779.79999 400c0x1c1x1V796.20001 400c0x1c1x1V796.20001 410c0x1c1x1V798 410c0x1c1x1V798 400c0x1c1x1V813 400c0x1c1x1V813 545c0x1c1x1V803 545c0x1c1x1V803 554.50403c0x1c1x1V773 554.50403c0x1c1x1V773 545c0x1c1x1V763 545c0x1c1x1</VertList>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Ellipse" CutIndex="0" Rx="75" Ry="75">
+                <XForm>1 0 0 1 600 400</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="0" W="1.7000364" H="31.000011" Cr="0">
+                <XForm>1 0 0 1 565.95 400.25</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="0" W="1.7000364" H="31.000011" Cr="0">
+                <XForm>1 0 0 1 634.05 400.25</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
