@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="1.4.00" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="True">
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+        <Optimize_OverlapDist Value="0.025"/>
+    </UIPrefs>
+    <CutSetting type="Scan">
+        <index Value="0"/>
+        <name Value="Lino fill ramped"/>
+        <minPower Value="15"/>
+        <maxPower Value="40"/>
+        <maxPower2 Value="20"/>
+        <speed Value="50"/>
+        <rampLength Value="0.5"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <Shape Type="Text" CutIndex="0" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="C" H="13.23838" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+        <BackupPath Type="Path" CutIndex="0">
+            <XForm>1 0 0 1 971.051 400.129</XForm>
+            <VertList>V0.71508789 -2.0144043c0x2.3324661c0y-1.95786c1x0.29400063c1y-2.0428531V4.109375 0.734375c0x1c1x3.7178721c1y-0.83592319V2.8747559 1.0251465c0x1c1x1V2.7875977 0.77539063c0x2.6069257c0y0.21692681c1x1V1.7561035 -0.59155273c0x1.1657026c0y-0.91809535c1x2.2435699c1y-0.26459503V-0.18310547 -0.92016602c0x-1.2672207c0y-0.80432844c1x0.4819161c1y-1.0339682V-2.5163574 0.97680664c0x-2.965121c0y2.3330741c1x-2.1816936c1y-0.060846806V-2.3671875 5.1252441c0x-2.0924375c0y5.7264504c1x-2.9122036c1y3.8047118V-0.98632813 6.449707c0x-0.21458903c0y6.7826161c1x-1.5984625c1y6.2002506V1.4345703 6.4633789c0x2.1145675c0y6.1496491c1x0.65912056c1y6.7875504V2.8581543 4.8505859c0x2.9232821c0y4.6672525c1x2.6312706c1y5.5642705V3.0168457 4.2895508c0x1c1x2.976294c1y4.4798355V4.2709961 4.6062012c0x4.0926538c0y5.4173746c1x1V3.0983887 6.7480469c0x2.3514919c0y7.4378128c1x3.6856692c1y6.160759V0.34716797 7.7736816c0x-0.42831129c0y7.8016233c1x1.3633249c1y7.8061943V-1.895752 7.2961426c0x-2.7681239c0y6.8044362c1x-1.1989125c1y7.6375551V-3.7229004 5.0446777c0x-4.2553988c0y3.5738568c1x-3.4212921c1y5.9995847V-3.6733398 0.50195313c0x-3.1253479c0y-0.80088425c1x-4.2378006c1y1.9608066V-0.54443359 -1.9453125c0x-0.12898302c0y-2.0196502c1x-1.9409077c1y-1.7272906</VertList>
+            <PrimList>B0 1L1 2L2 3B3 4B4 5B5 6B6 7B7 8B8 9B9 10B10 11L11 12B12 13B13 14B14 15B15 16B16 17B17 18B18 0</PrimList>
+        </BackupPath>
+        <XForm>1 0 0 1 971.051 400.129</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="0" W="11.999849" H="17.004999" Cr="0">
+        <XForm>1 0 0 1 971.331 403.057</XForm>
+    </Shape>
+    <Notes ShowOnLoad="1" Notes="File created by Boxes.py script, programmed by Florian Festi.&#10;Lightburn output by Klaus Steinhammer.&#10;&#10;URL with settings:&#10;http://festi.info/boxes.py/BurnTest?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=50&amp;step=0.01&amp;pairs=2&amp;thickness=5.5&amp;format=lbrn2&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=en"/>
+</LightBurnProject>
