@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary>
+    <Material name="Ply">
+        <Entry Thickness="5.5000" Desc="Cut in 3 passes">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Ply/5.5000/Cut in 3 passes"/>
+                <minPower Value="70"/>
+                <maxPower Value="85"/>
+                <maxPower2 Value="20"/>
+                <speed Value="13"/>
+                <numPasses Value="3"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
